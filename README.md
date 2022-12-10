@@ -1,3 +1,4 @@
+<i> Authored by Tara Sothy and Matt Westerhaus </i>
 # **To run a file through the ref_asm**
 
 1)./ref_asm -i input_file -o asm_output_file 
